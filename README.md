@@ -3,7 +3,7 @@
   <br>
   <a href="https://safedesign.company/"><img src="./logo.png" alt="safedesign company" width="200"></a>
   <br>
-  Mohammad Mahdi Seifi (safedesign)
+  Mohammad Mahdi Seifi (Safedesign)
 </h1>
 
 <h4 align="center">I am Mohammad Mahdi Seyfi! A Senior Wordpress developer!</h4>
@@ -19,7 +19,7 @@
 
 ✉️ &nbsp;You can shoot me an email at mahdi.seifi90@gmail.com I'll try to respond as soon as I can.
 
-📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-362339190//) for more details about me.
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-362339190/) for more details about me.
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,9 +40,7 @@
 <a href="https://www.instagram.com/safedesign.ir/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UC9l_5Xfj0KnQda1hkf_nSWQ">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/mohammad-mahdi-362339190/">
+    <img alt="Telegram" src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/weblax_ir">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a> -->
